@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WaveHubRoblox/main/main/loader"))()
+loadstring(game:HttpGet("https://wavehubupdater.netlify.app/"))()
